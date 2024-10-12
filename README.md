@@ -53,14 +53,6 @@ The code transmits the string `"Apa kabar \n\r"` through UART2 at regular interv
 
 - **LED1** (`PA8`) toggles its state every 500ms using the `HAL_GPIO_TogglePin()` function.
 
-## Getting Started
 
-1. Clone this repository:
-   
-   ```bash
-   git clone https://github.com/yourusername/OLED_testV1.git
-   ```
-
-### 
 
 
